@@ -1,0 +1,8 @@
+app.json
+heroku.yml
+LICENSE
+app/.nuxt
+app/node_modules
+*/.git
+*/.gitignore
+*/README.md
