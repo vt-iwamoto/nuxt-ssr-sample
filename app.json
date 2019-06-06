@@ -1,7 +1,6 @@
 {
   "name": "nuxt-ssr-sample",
   "description": "Sample Project Using Nuxt.js SSR",
-  "repository": "https://github.com/vt-iwamoto/nuxt-ssr-sample",
   "keywords": ["nuxt"],
   "stack": "container"
 }
